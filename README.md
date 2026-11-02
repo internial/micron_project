@@ -145,3 +145,4 @@ python3 verify_logs.py
 *   `tool_simulator.py`: Manages high-frequency device emulation and string packet wrapping.
 *   `fdc_processor.py`: Serves as the core analytical tracking script enforcing production boundaries.
 *   `verify_logs.py`: Evaluates permanent row ingestion files to extract clean audit summaries.
+# micron_project
